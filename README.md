@@ -12,7 +12,7 @@ My goal is to evaluate whether the **`no` sensor can be eliminated** without los
 
 ---
 
-## My Hypothesis
+## Hypothesis
 Eliminating the `no` sensor (Nitric Oxide) in N. Mai, Los Angeles California (CA), will have a minimal impact on overall air quality monitoring. This is based on the strong correlation, interdependence, or redundancy of `no` with other related pollutants, such as `no2` and `nox`. By leveraging data from these sensors, it can effectively derive `no` levels, thereby optimally reducing project expenses while maintaining the integrity of air quality data.
 
 ---
