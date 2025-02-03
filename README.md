@@ -38,7 +38,7 @@ Eliminating the `no` sensor (Nitric Oxide) in N. Mai, Los Angeles California (CA
 - 📄 **[Project Selection Hypothesis](project-selection-hypothesis.pdf)** – I analyzed the criteria for selecting cost-effective projects. 
 - 📄 **[Methodology Report](methodology.pdf)** – I outlined the research approach and data-processing techniques.   
 - 📄 **[Results & Discussion](results-and-discussion)** – I summarized the key findings and conclusions.  
-- 📊 **[Project Cost Optimization Notebook](project-cost-optimization.ipynb)** – These are my Jupyter notebook for data analysis.  
+- 📊 **[Project Cost Optimization Notebook](project-cost-optimization.pdf)** – These are my Jupyter notebook for data analysis.  
 
 ---
 
