@@ -3,17 +3,17 @@
 ---
 
 ## Overview
-This project analyzes **air quality monitoring sensor data** to identify cost-optimization opportunities. Specifically, we assess the redundancy of the **NO (Nitric Oxide) sensor** and determine if its removal would maintain data integrity while reducing costs.
+This project analyzes **air quality monitoring sensor data** to identify cost-optimization opportunities. Specifically, we assess the redundancy of the **`no` (Nitric Oxide) sensor** and determine if its removal would maintain data integrity while reducing costs.
 
 ---
 
 ## Objective
-My goal is to evaluate whether the **`NO` sensor can be eliminated** without losing crucial data. This is achieved through **statistical correlation analysis** and **linear regression modeling**, using **`NO`, `NO₂` (Nitrogen Dioxide), and `NOₓ` (Nitrogen Oxides) sensor data**.
+My goal is to evaluate whether the **`no` sensor can be eliminated** without losing crucial data. This is achieved through **statistical correlation analysis** and **linear regression modeling**, using **`no`, `no₂` (Nitrogen Dioxide), and `noₓ` (Nitrogen Oxides) sensor data**.
 
 ---
 
 ## My Hypothesis
-Eliminating the no sensor (Nitric Oxide) in N. Mai, Los Angeles California (CA), will have a minimal impact on overall air quality monitoring. This is based on the strong correlation, interdependence, or redundancy of no with other related pollutants, such as `no2` and `nox`. By leveraging data from these sensors, it can effectively derive no levels, thereby optimally reducing project expenses while maintaining the integrity of air quality data.
+Eliminating the `no` sensor (Nitric Oxide) in N. Mai, Los Angeles California (CA), will have a minimal impact on overall air quality monitoring. This is based on the strong correlation, interdependence, or redundancy of `no` with other related pollutants, such as `no2` and `nox`. By leveraging data from these sensors, it can effectively derive `no` levels, thereby optimally reducing project expenses while maintaining the integrity of air quality data.
 
 ---
 
@@ -21,13 +21,13 @@ Eliminating the no sensor (Nitric Oxide) in N. Mai, Los Angeles California (CA),
 1. Data Preparation
 2. Scatter Plot Analysis
 3. Correlation Analysis
-4. Time-Series (Line Plot) Analysis
+4. Line Plot Analysis
 5. Linear Regression Model
    
 ---
 
-## **Conclusion:** Strong correlations suggest sensor redundancy, making `NO` a potential candidate for removal.
-  - Eliminating the `NO` sensor has minimal impact, as `NO` can be predicted from `NO₂` and `NOₓ`.
+## **Conclusion:** Strong correlations suggest sensor redundancy, making `no` a potential candidate for removal.
+  - Eliminating the `no` sensor has minimal impact, as `no` can be predicted from `no₂` and `noₓ`.
   - Strong linear relationship and low RMSE confirm the `NO` sensor is redundant.
   - Removing the `NO` sensor reduces costs without affecting the quality of the data.
   - The approach can optimize sensor use in air quality monitoring systems.
@@ -35,10 +35,10 @@ Eliminating the no sensor (Nitric Oxide) in N. Mai, Los Angeles California (CA),
 ---
 
 ## **Files and Reports**
-📄 **[Project Selection Hypothesis](project-selection-hypothesis.pdf)** – I analyzed the criteria for selecting cost-effective projects. 
-📄 **[Methodology Report](methodology.pdf)** – I outlined the research approach and data-processing techniques.   
-📄 **[Results & Discussion](results-and-discussion)** – I summarized the key findings and conclusions.  
-📊 **[Project Cost Optimization Notebook](project-cost-optimization.ipynb)** – These are my Jupyter notebook for data analysis.  
+- 📄 **[Project Selection Hypothesis](project-selection-hypothesis.pdf)** – I analyzed the criteria for selecting cost-effective projects. 
+- 📄 **[Methodology Report](methodology.pdf)** – I outlined the research approach and data-processing techniques.   
+- 📄 **[Results & Discussion](results-and-discussion)** – I summarized the key findings and conclusions.  
+- 📊 **[Project Cost Optimization Notebook](project-cost-optimization.ipynb)** – These are my Jupyter notebook for data analysis.  
 
 ---
 
