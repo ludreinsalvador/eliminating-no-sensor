@@ -3,7 +3,7 @@
 ---
 
 ## Overview
-This project analyzes **air quality monitoring sensor data** to identify cost-optimization opportunities. Specifically, we assess the redundancy of the **`no` (Nitric Oxide) sensor** and determine if its removal would maintain data integrity while reducing costs.
+This project analyzes **air quality monitoring sensor data** to identify cost-optimization opportunities. Specifically, I assess the redundancy of the **`no` (Nitric Oxide) sensor** and determine if its removal would maintain data integrity while reducing costs.
 
 ---
 
